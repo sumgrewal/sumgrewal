@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumgrewal
+- 👋 Hi, I’m Suman!
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and R.
 - 📫 How to reach me: linkedin.com/in/suman-grewal
